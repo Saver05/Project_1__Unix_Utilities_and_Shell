@@ -1,0 +1,3 @@
+/home/saver05/CLionProjects/Project 1: Unix Utilities and Shell/cmake-build-debug/CMakeFiles/Project_1__Unix_Utilities_and_Shell.dir
+/home/saver05/CLionProjects/Project 1: Unix Utilities and Shell/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/saver05/CLionProjects/Project 1: Unix Utilities and Shell/cmake-build-debug/CMakeFiles/rebuild_cache.dir

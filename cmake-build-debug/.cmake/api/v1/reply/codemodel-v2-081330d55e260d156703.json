@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Project_1__Unix_Utilities_and_Shell",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Project_1__Unix_Utilities_and_Shell::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Project_1__Unix_Utilities_and_Shell-Debug-09f4451db2d4f12581d5.json",
+					"name" : "Project_1__Unix_Utilities_and_Shell",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/saver05/CLionProjects/Project 1: Unix Utilities and Shell/cmake-build-debug",
+		"source" : "/home/saver05/CLionProjects/Project 1: Unix Utilities and Shell"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
